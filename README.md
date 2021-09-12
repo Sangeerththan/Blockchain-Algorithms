@@ -15,3 +15,9 @@
    - [A simple tutorial for developing a blockchain application from scratch in Python](https://github.com/satwikkansal/python_blockchain_app)
    - [A Python library for interacting with Ethereum, inspired by web3.js.](https://github.com/ethereum/web3.py)
    - [Python Library for BitShares](https://github.com/bitshares/python-bitshares)
+ ### Popular consensus algorithms
+   - PBFT (Practical Byzantine Fault Tolerance)
+   - Proof-of-work
+   - Proof-of-stake
+   - Delegated proof-of-stake
+   - Proof-of-elapsed time
