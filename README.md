@@ -21,7 +21,6 @@
    - [This is a Python implementation of Consensus-Based Bundle Algorithm (CBBA).](https://github.com/zehuilu/CBBA-Python)
    - [A simple blockchain written in Python. The main aim is to develop an understanding how blockchain works.](https://github.com/nirmaldalmia/blockchain-demo)
    - [ConsensusPKI in a nutshell (for technical people)](https://github.com/volkankaya/ConsensusPKI)
-   - []
  ### Popular consensus algorithms
    - PBFT (Practical Byzantine Fault Tolerance)
    - Proof-of-work
